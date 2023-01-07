@@ -26,8 +26,8 @@ modules:
         --prefix=${FLATPAK_DEST} "desktop-entry-lib" --no-build-isolation
     sources:
       - type: file
-        url: https://files.pythonhosted.org/packages/eb/92/db1c4ab1e7d088bfc0fe05e564afc113b54bbf8e9a411dd15f06c172f1e9/desktop_entry_lib-2.0-py3-none-any.whl
-        sha256: 8f4d922020afdf86de59d4324a15f4e2fe66446360cbc2f21ede451ec4163e91
+        url: https://files.pythonhosted.org/packages/cd/f2/ba65b2c16bc8fb5d06b08e3b6573810144609b5236a44140077c82b13b26/desktop_entry_lib-2.1-py3-none-any.whl
+        sha256: 6e7653917554a45f5b37b9a63147293816b740c95909b01bf4fa265f0af0ad96
         x-checker-data:
           name: desktop_entry_lib
           packagetype: bdist_wheel
